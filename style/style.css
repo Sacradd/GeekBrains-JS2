@@ -33,6 +33,10 @@ header{
 .btn-cart:hover{
 	box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
+.goods-total{
+	font-size: 25px;
+	margin: 10px;
+}
 .products{
 	padding-top: 20px;
 	display: grid;
