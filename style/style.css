@@ -37,6 +37,14 @@ header{
 	font-size: 25px;
 	margin: 10px;
 }
+.basket-products{
+	display: flex;
+	justify-content: space-between;
+}
+.line{
+	height: 10px;
+	background-color: #FC350A;
+}
 .products{
 	padding-top: 20px;
 	display: grid;
