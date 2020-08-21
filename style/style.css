@@ -37,6 +37,14 @@ header{
 	font-size: 25px;
 	margin: 10px;
 }
+.basket-products{
+	display: flex;
+	justify-content: space-between;
+}
+.line{
+	height: 10px;
+	background-color: #FC350A;
+}
 .products{
 	padding-top: 20px;
 	display: grid;
@@ -74,4 +82,4 @@ header{
 	background-color: white;
 /*	box-shadow: 0 0 10px rgba(0,0,0,0.5);*/
 	box-sizing: border-box;
-}
+} 
